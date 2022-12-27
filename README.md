@@ -1,13 +1,15 @@
-<h1 align="center">Hi there, I'm Nuno</h1>
+<h1 align="center">Hi there, I'm Nuno 👋</h1>
 <h3 align="center">A software engineer with a passion for all things medical</h3>
 
 <p alignt="justify">
     Academically, I have a Master's and a Bachelor's in Informatics Engineering. 
-  
+</p>
+<p alignt="justify">
     Professionaly, I ventured myself into front-end development for 6 months, some research grants, and I am currently working on a research company targeting cardiac monitoring, on the back-end implementation.
-    
+</p>
+<p alignt="justify">    
     As a researcher, I have published research, namely regarding the application of informatics in Medical tech, mainly using machine learning.
-Check out my Research Gate page, at <a href="https://www.researchgate.net/profile/Nuno-Gomes-30/research">Nuno Gomes Research Gate</a> .
+Check out <a href="https://www.researchgate.net/profile/Nuno-Gomes-30/research">my Research Gate</a>, to check out the research I have been working on.
 </p>
 
 <h3 align="left">Connect with me:</h3>
