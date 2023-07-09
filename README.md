@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nuno 👋</h1>
-<h3 align="center">A software engineer with a passion for all things medical</h3>
+<h3 align="center">A software engineer with a passion</h3>
 
 <p alignt="justify">
     Academically, I have a Master's and a Bachelor's in Informatics Engineering. 
