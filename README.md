@@ -11,6 +11,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/nuno-gomes-7734291a5" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuno-gomes-7734291a5" height="30" width="40" /></a>
+  <br> 
   <a href="https://www.researchgate.net/profile/Nuno-Gomes-30/research" target="blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height="30" /></a>
 </p>
 
@@ -38,7 +39,7 @@
 
 ### 🚀 Featured Project
 
-> **[instrumentaly: Piano Practice]**
+> **instrumentaly: Piano Practice**
 > *Traditional practice is often too predictable. If you want to master the piano, you need to bridge the gap between seeing a chord and your fingers hitting the keys instinctively, instrumentaly is designed to do exactly that.*
 > - **Stack:** Flutter, BLoC.
 > - **Key Feature:** App to help practice the piano with real time chord detector.
