@@ -32,14 +32,14 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=google-cloud&logoColor=white" alt="REST" />
   <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
-  <img src="
+</p>
 
 ---
 
 ### 🚀 Featured Project
 
-> **[App Name]**
-> *A brief description of the cardiac monitoring app or your primary project.*
+> **[instrumentaly: Piano Practice]**
+> *Traditional practice is often too predictable. If you want to master the piano, you need to bridge the gap between seeing a chord and your fingers hitting the keys instinctively, instrumentaly is designed to do exactly that.*
 > - **Stack:** Flutter, BLoC.
 > - **Key Feature:** App to help practice the piano with real time chord detector.
 > - [**Download it on Android**](https://play.google.com/store/apps/details?id=com.solo.instrumentaly)
@@ -54,8 +54,3 @@
 | **Research Portfolio** | [ResearchGate Profile](https://www.researchgate.net/profile/Nuno-Gomes-30/research) |
 | **Academic Background** | Informatics Engineering (MSc + BSc) |
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
